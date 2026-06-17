@@ -1,0 +1,22 @@
+{
+    "status": {
+        "drift_detected": true,
+        "interaction_index": 27166,
+        "timestamp": "2026-04-05 12:05:59"
+    },
+    "statistical_analysis": {
+        "drift_type": "SUDDEN DRIFT",
+        "severity_score": 0.8177,
+        "p_value": 1.6515416013695956e-34,
+        "confidence_level": 0.95
+    },
+    "xai_metadata": {
+        "root_cause_feature": "Unknown Concept Shift",
+        "impact_on_accuracy": -0.344,
+        "affected_user_id": 99999
+    },
+    "adaptation_recommendation": {
+        "suggested_strategy": "New LoRA Adapter",
+        "learning_rate_scale": "High"
+    }
+}
