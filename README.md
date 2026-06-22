@@ -34,8 +34,7 @@ The entire system is monitored by an autonomous AI agent that tracks **keystroke
 ---
 
 ## 🎓 xGATES: The Learner's Dimension
-
-The **xGATES Dashboard** is the student's portal. Designed with a dark, futuristic, "Matrix-like" aesthetic featuring neon green accents and smooth glassmorphism, it transforms learning into an epic digital quest.
+The **xGATES Dashboard** is the student's portal xLSTM Gamiﬁed Alerts for Tracing and Explaining Shifts in Intelligent Tutoring Systems.
 
 ### 1. The Quest Realms & Dynamic Quizzes
 Instead of standard tests, students enter "Quest Realms." Each realm represents a curriculum module.
@@ -57,8 +56,9 @@ Engagement is driven by a massive, platform-wide gamification engine:
 ---
 
 ## 👑 xCARE: The Teacher's Command Center
-
-The **xCARE Dashboard** is built for educators, administrators, and curriculum designers. It provides an omniscient view of the entire student body through advanced telemetry and AI diagnostics.
+xCARE:
+ 
+The **xCARE Dashboard** is built for educators, administrators. It provides an omniscient view of the entire student body through advanced telemetry and AI diagnostics with explainable Continual Adaptation and Remediation Engine via Agentic RAG for Concept Drift in Intelligent Tutoring System.
 
 ### 1. Advanced Real-Time Telemetry
 * **Live Heatmaps:** Teachers can view a live heatmap of cognitive engagement. They can see exactly which questions in a quiz are causing the highest failure rates across an entire cohort.
