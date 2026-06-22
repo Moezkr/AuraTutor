@@ -56,7 +56,7 @@ Engagement is driven by a massive, platform-wide gamification engine:
 ---
 
 ## 👑 xCARE: The Teacher's Command Center
-xCARE:
+
  
 The **xCARE Dashboard** is built for educators, administrators. It provides an omniscient view of the entire student body through advanced telemetry and AI diagnostics with explainable Continual Adaptation and Remediation Engine via Agentic RAG for Concept Drift in Intelligent Tutoring System.
 
